@@ -2,4 +2,6 @@ var defaultMessage = "Hey there! If you can see this, you must be a cool program
 
 console.clear();
 
+console.log('-----------------------------------')
 console.log(defaultMessage);
+console.log('-----------------------------------')
