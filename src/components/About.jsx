@@ -34,12 +34,16 @@ const About = () => {
         <h2 className={styles.sectionHeadText}>Overview.</h2>
       </motion.div>
 
+{/*Introduction Section Below */}
+
       <motion.p
         variants={fadeIn('', '', 0.1, 1)}
         className="mt-4 text-taupe text-[18px] max-w-3xl leading-[30px]">
         I am an aspiring software developer based in Avon, IN. 
-        For the past few years, I have built and cultivated skills in robotics, compuer vision, AI, and more.
-        
+        For the past few years, I have built and cultivated skills in robotics, compuer vision, AI, 
+        and more. My recent projects include an AI-Powered Vision Robot while my upcoming project involves
+         an Autonomous Drone.
+    
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">

@@ -1,5 +1,8 @@
 import {
   frontend,
+  robot,
+  vision,
+  brain,
   backend,
   ux,
   prototyping,
@@ -46,16 +49,16 @@ export const navLinks = [
 
 const services = [
   {
-    title: 'Frontend Developer',
-    icon: frontend,
+    title: 'Computer Vision',
+    icon: vision,
   },
   {
-    title: 'Backend Developer',
-    icon: backend,
+    title: 'Robotics',
+    icon: robot,
   },
   {
-    title: 'UI/UX Design',
-    icon: ux,
+    title: 'Machine Learning (AI)',
+    icon: brain,
   },
   {
     title: 'Software Prototyping',
