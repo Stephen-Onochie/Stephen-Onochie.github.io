@@ -12,6 +12,9 @@ import backend from './icons/backend.png';
 import ux from './icons/ux.png';
 import frontend from './icons/frontend.png';
 import prototyping from './icons/prototyping.png';
+import robot from './icons/robot.png';
+import brain from './icons/brain.png';
+import vision from './icons/vision.png';
 import github from './icons/github.png';
 import close from './icons/close.png';
 import download from './icons/download.png';
@@ -62,6 +65,9 @@ export {
   ux,
   frontend,
   prototyping,
+  robot,
+  brain,
+  vision,
   github,
   close,
   download,
